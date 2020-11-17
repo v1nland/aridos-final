@@ -1,0 +1,32 @@
+/* TABLE STUFF */
+.table {
+  text-align: center;
+}
+.table > tbody > tr > td {
+   vertical-align: middle;
+}
+
+/* BUTTON STUFF */
+.btn{
+   margin: 2px;
+}
+
+/* HISTORIAL STUFF */
+.dropdown-menu{
+   padding: 5px;
+   text-align: justify;
+}
+
+/* BITACORA STUFF */
+.tooltip-inner {
+   text-align: left;
+}
+.popover-header {
+   color: black;
+}
+.hide{
+   display: none;
+}
+.hide-link{
+   color: inherit;
+}
